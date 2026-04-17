@@ -1,0 +1,319 @@
+id,source,source_type,region,scenario,year,start_month,months_active,profile,profile_weights_json,original_unit,original_value,ghv_mmbtu_per_tonne,cargo_mmbtu,cargo_tonnes,mtpa,mmbtu,cargoes,equity_fraction,equity_mtpa,equity_mmbtu,equity_cargoes,notes,status
+204,"RAS LAFAN 3",asset,"Middle East",P50,2036,1,12,flat,,mtpa,5.5,,,,5.5,286000000.0,89.375,1.0,5.5,286000000.0,89.375,"",negotiation
+211,"RAS LAFAN 5",asset,"Middle East",P50,2036,1,12,flat,,mtpa,0.3,,,,0.3,15600000.0,4.875,1.0,0.3,15600000.0,4.875,"",negotiation
+212,"RAS LAFAN 5",asset,"Middle East",P50,2037,1,12,flat,,mtpa,0.3,,,,0.3,15600000.0,4.875,1.0,0.3,15600000.0,4.875,"",negotiation
+213,"RAS LAFAN 5",asset,"Middle East",P50,2038,1,12,flat,,mtpa,0.3,,,,0.3,15600000.0,4.875,1.0,0.3,15600000.0,4.875,"",negotiation
+214,"RAS LAFAN 5",asset,"Middle East",P50,2039,1,12,flat,,mtpa,0.3,,,,0.3,15600000.0,4.875,1.0,0.3,15600000.0,4.875,"",negotiation
+215,"RAS LAFAN 5",asset,"Middle East",P50,2040,1,12,flat,,mtpa,0.4,,,,0.4,20800000.0,6.5,1.0,0.4,20800000.0,6.5,"",negotiation
+216,Pluto,production_asset,APAC,P90,2025,1,12,flat,,mtpa,4.55,52.0,,,4.55,236600000.0,73.9375,1.0,4.55,236600000.0,73.9375,,firm
+217,Pluto,production_asset,APAC,P90,2026,1,12,flat,,mtpa,3.39,52.0,,,3.39,176280000.0,55.0875,1.0,3.39,176280000.0,55.0875,,firm
+218,Pluto,production_asset,APAC,P90,2027,1,12,flat,,mtpa,2.18,52.0,,,2.18,113360000.0,35.425,1.0,2.18,113360000.0,35.425,,firm
+219,Pluto,production_asset,APAC,P90,2028,1,12,flat,,mtpa,1.2,52.0,,,1.2,62400000.0,19.5,1.0,1.2,62400000.0,19.5,,firm
+220,Pluto,production_asset,APAC,P90,2029,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+221,Pluto,production_asset,APAC,P90,2030,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+222,Pluto,production_asset,APAC,P90,2031,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+223,Pluto,production_asset,APAC,P90,2032,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+224,Pluto,production_asset,APAC,P90,2033,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+225,Pluto,production_asset,APAC,P90,2034,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+226,Pluto,production_asset,APAC,P90,2035,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+227,Pluto,production_asset,APAC,P90,2036,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+228,Pluto,production_asset,APAC,P90,2037,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+229,Pluto,production_asset,APAC,P90,2038,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+230,Pluto,production_asset,APAC,P90,2039,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+231,Pluto,production_asset,APAC,P90,2040,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+232,Pluto,production_asset,APAC,P90,2041,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+233,Pluto,production_asset,APAC,P90,2042,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+234,Pluto,production_asset,APAC,P90,2043,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+235,Pluto,production_asset,APAC,P90,2044,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+236,Pluto,production_asset,APAC,P90,2045,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+237,Pluto,production_asset,APAC,P90,2046,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+238,Pluto,production_asset,APAC,P90,2047,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+239,Pluto,production_asset,APAC,P90,2048,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+240,Pluto,production_asset,APAC,P90,2049,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+241,Pluto,production_asset,APAC,P90,2050,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+242,"Pluto I/C",production_asset,APAC,P90,2025,1,12,flat,,mtpa,0.61,52.0,,,0.61,31720000.0,9.9125,1.0,0.61,31720000.0,9.9125,,firm
+243,"Pluto I/C",production_asset,APAC,P90,2026,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+244,"Pluto I/C",production_asset,APAC,P90,2027,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+245,"Pluto I/C",production_asset,APAC,P90,2028,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+246,"Pluto I/C",production_asset,APAC,P90,2029,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+247,"Pluto I/C",production_asset,APAC,P90,2030,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+248,"Pluto I/C",production_asset,APAC,P90,2031,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+249,"Pluto I/C",production_asset,APAC,P90,2032,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+250,"Pluto I/C",production_asset,APAC,P90,2033,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+251,"Pluto I/C",production_asset,APAC,P90,2034,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+252,"Pluto I/C",production_asset,APAC,P90,2035,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+253,"Pluto I/C",production_asset,APAC,P90,2036,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+254,"Pluto I/C",production_asset,APAC,P90,2037,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+255,"Pluto I/C",production_asset,APAC,P90,2038,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+256,"Pluto I/C",production_asset,APAC,P90,2039,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+257,"Pluto I/C",production_asset,APAC,P90,2040,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+258,"Pluto I/C",production_asset,APAC,P90,2041,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+259,"Pluto I/C",production_asset,APAC,P90,2042,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+260,"Pluto I/C",production_asset,APAC,P90,2043,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+261,"Pluto I/C",production_asset,APAC,P90,2044,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+262,"Pluto I/C",production_asset,APAC,P90,2045,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+263,"Pluto I/C",production_asset,APAC,P90,2046,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+264,"Pluto I/C",production_asset,APAC,P90,2047,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+265,"Pluto I/C",production_asset,APAC,P90,2048,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+266,"Pluto I/C",production_asset,APAC,P90,2049,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+267,"Pluto I/C",production_asset,APAC,P90,2050,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+268,Scarborough,production_asset,APAC,P90,2025,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+269,Scarborough,production_asset,APAC,P90,2026,1,12,flat,,mtpa,1.03,52.0,,,1.03,53560000.0,16.7375,1.0,1.03,53560000.0,16.7375,,firm
+270,Scarborough,production_asset,APAC,P90,2027,1,12,flat,,mtpa,5.14,52.0,,,5.14,267280000.0,83.525,1.0,5.14,267280000.0,83.525,,firm
+271,Scarborough,production_asset,APAC,P90,2028,1,12,flat,,mtpa,5.88,52.0,,,5.88,305760000.0,95.55,1.0,5.88,305760000.0,95.55,,firm
+272,Scarborough,production_asset,APAC,P90,2029,1,12,flat,,mtpa,5.94,52.0,,,5.94,308880000.0,96.525,1.0,5.94,308880000.0,96.525,,firm
+273,Scarborough,production_asset,APAC,P90,2030,1,12,flat,,mtpa,5.7,52.0,,,5.7,296400000.0,92.625,1.0,5.7,296400000.0,92.625,,firm
+274,Scarborough,production_asset,APAC,P90,2031,1,12,flat,,mtpa,6.41,52.0,,,6.41,333320000.0,104.1625,1.0,6.41,333320000.0,104.1625,,firm
+275,Scarborough,production_asset,APAC,P90,2032,1,12,flat,,mtpa,6.39,52.0,,,6.39,332280000.0,103.8375,1.0,6.39,332280000.0,103.8375,,firm
+276,Scarborough,production_asset,APAC,P90,2033,1,12,flat,,mtpa,5.89,52.0,,,5.89,306280000.0,95.7125,1.0,5.89,306280000.0,95.7125,,firm
+277,Scarborough,production_asset,APAC,P90,2034,1,12,flat,,mtpa,5.38,52.0,,,5.38,279760000.0,87.425,1.0,5.38,279760000.0,87.425,,firm
+278,Scarborough,production_asset,APAC,P90,2035,1,12,flat,,mtpa,5.09,52.0,,,5.09,264680000.0,82.7125,1.0,5.09,264680000.0,82.7125,,firm
+279,Scarborough,production_asset,APAC,P90,2036,1,12,flat,,mtpa,4.62,52.0,,,4.62,240240000.0,75.075,1.0,4.62,240240000.0,75.075,,firm
+280,Scarborough,production_asset,APAC,P90,2037,1,12,flat,,mtpa,4.11,52.0,,,4.11,213720000.0,66.7875,1.0,4.11,213720000.0,66.7875,,firm
+281,Scarborough,production_asset,APAC,P90,2038,1,12,flat,,mtpa,3.71,52.0,,,3.71,192920000.0,60.2875,1.0,3.71,192920000.0,60.2875,,firm
+282,Scarborough,production_asset,APAC,P90,2039,1,12,flat,,mtpa,3.65,52.0,,,3.65,189800000.0,59.3125,1.0,3.65,189800000.0,59.3125,,firm
+283,Scarborough,production_asset,APAC,P90,2040,1,12,flat,,mtpa,3.26,52.0,,,3.26,169520000.0,52.975,1.0,3.26,169520000.0,52.975,,firm
+284,Scarborough,production_asset,APAC,P90,2041,1,12,flat,,mtpa,2.82,52.0,,,2.82,146640000.0,45.825,1.0,2.82,146640000.0,45.825,,firm
+285,Scarborough,production_asset,APAC,P90,2042,1,12,flat,,mtpa,2.65,52.0,,,2.65,137800000.0,43.0625,1.0,2.65,137800000.0,43.0625,,firm
+286,Scarborough,production_asset,APAC,P90,2043,1,12,flat,,mtpa,2.18,52.0,,,2.18,113360000.0,35.425,1.0,2.18,113360000.0,35.425,,firm
+287,Scarborough,production_asset,APAC,P90,2044,1,12,flat,,mtpa,0.91,52.0,,,0.91,47320000.0,14.7875,1.0,0.91,47320000.0,14.7875,,firm
+288,Scarborough,production_asset,APAC,P90,2045,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+289,Scarborough,production_asset,APAC,P90,2046,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+290,Scarborough,production_asset,APAC,P90,2047,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+291,Scarborough,production_asset,APAC,P90,2048,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+292,Scarborough,production_asset,APAC,P90,2049,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+293,Scarborough,production_asset,APAC,P90,2050,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+294,Wheatstone,production_asset,APAC,P90,2025,1,12,flat,,mtpa,1.15,52.0,,,1.15,59800000.0,18.6875,1.0,1.15,59800000.0,18.6875,,firm
+295,Wheatstone,production_asset,APAC,P90,2026,1,12,flat,,mtpa,0.85,52.0,,,0.85,44200000.0,13.8125,1.0,0.85,44200000.0,13.8125,,firm
+296,Wheatstone,production_asset,APAC,P90,2027,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+297,Wheatstone,production_asset,APAC,P90,2028,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+298,Wheatstone,production_asset,APAC,P90,2029,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+299,Wheatstone,production_asset,APAC,P90,2030,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+300,Wheatstone,production_asset,APAC,P90,2031,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+301,Wheatstone,production_asset,APAC,P90,2032,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+302,Wheatstone,production_asset,APAC,P90,2033,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+303,Wheatstone,production_asset,APAC,P90,2034,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+304,Wheatstone,production_asset,APAC,P90,2035,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+305,Wheatstone,production_asset,APAC,P90,2036,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+306,Wheatstone,production_asset,APAC,P90,2037,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+307,Wheatstone,production_asset,APAC,P90,2038,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+308,Wheatstone,production_asset,APAC,P90,2039,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+309,Wheatstone,production_asset,APAC,P90,2040,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+310,Wheatstone,production_asset,APAC,P90,2041,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+311,Wheatstone,production_asset,APAC,P90,2042,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+312,Wheatstone,production_asset,APAC,P90,2043,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+313,Wheatstone,production_asset,APAC,P90,2044,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+314,Wheatstone,production_asset,APAC,P90,2045,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+315,Wheatstone,production_asset,APAC,P90,2046,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+316,Wheatstone,production_asset,APAC,P90,2047,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+317,Wheatstone,production_asset,APAC,P90,2048,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+318,Wheatstone,production_asset,APAC,P90,2049,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+319,Wheatstone,production_asset,APAC,P90,2050,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+320,NWS,production_asset,APAC,P90,2025,1,12,flat,,mtpa,2.58,52.0,,,2.58,134160000.0,41.925,1.0,2.58,134160000.0,41.925,,firm
+321,NWS,production_asset,APAC,P90,2026,1,12,flat,,mtpa,2.38,52.0,,,2.38,123760000.0,38.675,1.0,2.38,123760000.0,38.675,,firm
+322,NWS,production_asset,APAC,P90,2027,1,12,flat,,mtpa,2.63,52.0,,,2.63,136760000.0,42.7375,1.0,2.63,136760000.0,42.7375,,firm
+323,NWS,production_asset,APAC,P90,2028,1,12,flat,,mtpa,2.1,52.0,,,2.1,109200000.0,34.125,1.0,2.1,109200000.0,34.125,,firm
+324,NWS,production_asset,APAC,P90,2029,1,12,flat,,mtpa,1.81,52.0,,,1.81,94120000.0,29.4125,1.0,1.81,94120000.0,29.4125,,firm
+325,NWS,production_asset,APAC,P90,2030,1,12,flat,,mtpa,1.5,52.0,,,1.5,78000000.0,24.375,1.0,1.5,78000000.0,24.375,,firm
+326,NWS,production_asset,APAC,P90,2031,1,12,flat,,mtpa,1.15,52.0,,,1.15,59800000.0,18.6875,1.0,1.15,59800000.0,18.6875,,firm
+327,NWS,production_asset,APAC,P90,2032,1,12,flat,,mtpa,1.2,52.0,,,1.2,62400000.0,19.5,1.0,1.2,62400000.0,19.5,,firm
+328,NWS,production_asset,APAC,P90,2033,1,12,flat,,mtpa,1.0,52.0,,,1.0,52000000.0,16.25,1.0,1.0,52000000.0,16.25,,firm
+329,NWS,production_asset,APAC,P90,2034,1,12,flat,,mtpa,0.81,52.0,,,0.81,42120000.0,13.1625,1.0,0.81,42120000.0,13.1625,,firm
+330,NWS,production_asset,APAC,P90,2035,1,12,flat,,mtpa,0.06,52.0,,,0.06,3120000.0,0.975,1.0,0.06,3120000.0,0.975,,firm
+331,NWS,production_asset,APAC,P90,2036,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+332,NWS,production_asset,APAC,P90,2037,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+333,NWS,production_asset,APAC,P90,2038,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+334,NWS,production_asset,APAC,P90,2039,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+335,NWS,production_asset,APAC,P90,2040,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+336,NWS,production_asset,APAC,P90,2041,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+337,NWS,production_asset,APAC,P90,2042,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+338,NWS,production_asset,APAC,P90,2043,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+339,NWS,production_asset,APAC,P90,2044,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+340,NWS,production_asset,APAC,P90,2045,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+341,NWS,production_asset,APAC,P90,2046,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+342,NWS,production_asset,APAC,P90,2047,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+343,NWS,production_asset,APAC,P90,2048,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+344,NWS,production_asset,APAC,P90,2049,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+345,NWS,production_asset,APAC,P90,2050,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+346,Corpus,production_asset,Atlantic,P90,2025,1,12,flat,,mtpa,0.85,52.0,,,0.85,44200000.0,13.8125,1.0,0.85,44200000.0,13.8125,,firm
+347,Corpus,production_asset,Atlantic,P90,2026,1,12,flat,,mtpa,0.85,52.0,,,0.85,44200000.0,13.8125,1.0,0.85,44200000.0,13.8125,,firm
+348,Corpus,production_asset,Atlantic,P90,2027,1,12,flat,,mtpa,0.85,52.0,,,0.85,44200000.0,13.8125,1.0,0.85,44200000.0,13.8125,,firm
+349,Corpus,production_asset,Atlantic,P90,2028,1,12,flat,,mtpa,0.85,52.0,,,0.85,44200000.0,13.8125,1.0,0.85,44200000.0,13.8125,,firm
+350,Corpus,production_asset,Atlantic,P90,2029,1,12,flat,,mtpa,0.85,52.0,,,0.85,44200000.0,13.8125,1.0,0.85,44200000.0,13.8125,,firm
+351,Corpus,production_asset,Atlantic,P90,2030,1,12,flat,,mtpa,0.85,52.0,,,0.85,44200000.0,13.8125,1.0,0.85,44200000.0,13.8125,,firm
+352,Corpus,production_asset,Atlantic,P90,2031,1,12,flat,,mtpa,0.85,52.0,,,0.85,44200000.0,13.8125,1.0,0.85,44200000.0,13.8125,,firm
+353,Corpus,production_asset,Atlantic,P90,2032,1,12,flat,,mtpa,0.85,52.0,,,0.85,44200000.0,13.8125,1.0,0.85,44200000.0,13.8125,,firm
+354,Corpus,production_asset,Atlantic,P90,2033,1,12,flat,,mtpa,0.85,52.0,,,0.85,44200000.0,13.8125,1.0,0.85,44200000.0,13.8125,,firm
+355,Corpus,production_asset,Atlantic,P90,2034,1,12,flat,,mtpa,0.85,52.0,,,0.85,44200000.0,13.8125,1.0,0.85,44200000.0,13.8125,,firm
+356,Corpus,production_asset,Atlantic,P90,2035,1,12,flat,,mtpa,0.85,52.0,,,0.85,44200000.0,13.8125,1.0,0.85,44200000.0,13.8125,,firm
+357,Corpus,production_asset,Atlantic,P90,2036,1,12,flat,,mtpa,0.85,52.0,,,0.85,44200000.0,13.8125,1.0,0.85,44200000.0,13.8125,,firm
+358,Corpus,production_asset,Atlantic,P90,2037,1,12,flat,,mtpa,0.85,52.0,,,0.85,44200000.0,13.8125,1.0,0.85,44200000.0,13.8125,,firm
+359,Corpus,production_asset,Atlantic,P90,2038,1,12,flat,,mtpa,0.85,52.0,,,0.85,44200000.0,13.8125,1.0,0.85,44200000.0,13.8125,,firm
+360,Corpus,production_asset,Atlantic,P90,2039,1,12,flat,,mtpa,0.85,52.0,,,0.85,44200000.0,13.8125,1.0,0.85,44200000.0,13.8125,,firm
+361,Corpus,production_asset,Atlantic,P90,2040,1,12,flat,,mtpa,0.28,52.0,,,0.28,14560000.0,4.55,1.0,0.28,14560000.0,4.55,,firm
+362,Corpus,production_asset,Atlantic,P90,2041,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+363,Corpus,production_asset,Atlantic,P90,2042,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+364,Corpus,production_asset,Atlantic,P90,2043,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+365,Corpus,production_asset,Atlantic,P90,2044,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+366,Corpus,production_asset,Atlantic,P90,2045,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+367,Corpus,production_asset,Atlantic,P90,2046,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+368,Corpus,production_asset,Atlantic,P90,2047,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+369,Corpus,production_asset,Atlantic,P90,2048,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+370,Corpus,production_asset,Atlantic,P90,2049,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+371,Corpus,production_asset,Atlantic,P90,2050,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+372,Pluto,production_asset,APAC,P50,2025,1,12,flat,,mtpa,5.56,52.0,,,5.56,289120000.0,90.35,1.0,5.56,289120000.0,90.35,,firm
+373,Pluto,production_asset,APAC,P50,2026,1,12,flat,,mtpa,4.87,52.0,,,4.87,253240000.0,79.1375,1.0,4.87,253240000.0,79.1375,,firm
+374,Pluto,production_asset,APAC,P50,2027,1,12,flat,,mtpa,3.26,52.0,,,3.26,169520000.0,52.975,1.0,3.26,169520000.0,52.975,,firm
+375,Pluto,production_asset,APAC,P50,2028,1,12,flat,,mtpa,2.44,52.0,,,2.44,126880000.0,39.65,1.0,2.44,126880000.0,39.65,,firm
+376,Pluto,production_asset,APAC,P50,2029,1,12,flat,,mtpa,2.42,52.0,,,2.42,125840000.0,39.325,1.0,2.42,125840000.0,39.325,,firm
+377,Pluto,production_asset,APAC,P50,2030,1,12,flat,,mtpa,2.41,52.0,,,2.41,125320000.0,39.1625,1.0,2.41,125320000.0,39.1625,,firm
+378,Pluto,production_asset,APAC,P50,2031,1,12,flat,,mtpa,2.06,52.0,,,2.06,107120000.0,33.475,1.0,2.06,107120000.0,33.475,,firm
+379,Pluto,production_asset,APAC,P50,2032,1,12,flat,,mtpa,1.66,52.0,,,1.66,86320000.0,26.975,1.0,1.66,86320000.0,26.975,,firm
+380,Pluto,production_asset,APAC,P50,2033,1,12,flat,,mtpa,0.36,52.0,,,0.36,18720000.0,5.85,1.0,0.36,18720000.0,5.85,,firm
+381,Pluto,production_asset,APAC,P50,2034,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+382,Pluto,production_asset,APAC,P50,2035,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+383,Pluto,production_asset,APAC,P50,2036,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+384,Pluto,production_asset,APAC,P50,2037,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+385,Pluto,production_asset,APAC,P50,2038,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+386,Pluto,production_asset,APAC,P50,2039,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+387,Pluto,production_asset,APAC,P50,2040,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+388,Pluto,production_asset,APAC,P50,2041,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+389,Pluto,production_asset,APAC,P50,2042,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+390,Pluto,production_asset,APAC,P50,2043,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+391,Pluto,production_asset,APAC,P50,2044,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+392,Pluto,production_asset,APAC,P50,2045,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+393,Pluto,production_asset,APAC,P50,2046,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+394,Pluto,production_asset,APAC,P50,2047,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+395,Pluto,production_asset,APAC,P50,2048,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+396,Pluto,production_asset,APAC,P50,2049,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+397,Pluto,production_asset,APAC,P50,2050,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+398,"Pluto I/C",production_asset,APAC,P50,2025,1,12,flat,,mtpa,0.4,52.0,,,0.4,20800000.0,6.5,1.0,0.4,20800000.0,6.5,,firm
+399,"Pluto I/C",production_asset,APAC,P50,2026,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+400,"Pluto I/C",production_asset,APAC,P50,2027,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+401,"Pluto I/C",production_asset,APAC,P50,2028,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+402,"Pluto I/C",production_asset,APAC,P50,2029,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+403,"Pluto I/C",production_asset,APAC,P50,2030,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+404,"Pluto I/C",production_asset,APAC,P50,2031,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+405,"Pluto I/C",production_asset,APAC,P50,2032,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+406,"Pluto I/C",production_asset,APAC,P50,2033,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+407,"Pluto I/C",production_asset,APAC,P50,2034,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+408,"Pluto I/C",production_asset,APAC,P50,2035,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+409,"Pluto I/C",production_asset,APAC,P50,2036,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+410,"Pluto I/C",production_asset,APAC,P50,2037,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+411,"Pluto I/C",production_asset,APAC,P50,2038,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+412,"Pluto I/C",production_asset,APAC,P50,2039,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+413,"Pluto I/C",production_asset,APAC,P50,2040,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+414,"Pluto I/C",production_asset,APAC,P50,2041,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+415,"Pluto I/C",production_asset,APAC,P50,2042,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+416,"Pluto I/C",production_asset,APAC,P50,2043,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+417,"Pluto I/C",production_asset,APAC,P50,2044,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+418,"Pluto I/C",production_asset,APAC,P50,2045,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+419,"Pluto I/C",production_asset,APAC,P50,2046,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+420,"Pluto I/C",production_asset,APAC,P50,2047,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+421,"Pluto I/C",production_asset,APAC,P50,2048,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+422,"Pluto I/C",production_asset,APAC,P50,2049,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+423,"Pluto I/C",production_asset,APAC,P50,2050,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+424,Scarborough,production_asset,APAC,P50,2025,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+425,Scarborough,production_asset,APAC,P50,2026,1,12,flat,,mtpa,1.37,52.0,,,1.37,71240000.0,22.2625,1.0,1.37,71240000.0,22.2625,,firm
+426,Scarborough,production_asset,APAC,P50,2027,1,12,flat,,mtpa,5.36,52.0,,,5.36,278720000.0,87.1,1.0,5.36,278720000.0,87.1,,firm
+427,Scarborough,production_asset,APAC,P50,2028,1,12,flat,,mtpa,5.4,52.0,,,5.4,280800000.0,87.75,1.0,5.4,280800000.0,87.75,,firm
+428,Scarborough,production_asset,APAC,P50,2029,1,12,flat,,mtpa,5.19,52.0,,,5.19,269880000.0,84.3375,1.0,5.19,269880000.0,84.3375,,firm
+429,Scarborough,production_asset,APAC,P50,2030,1,12,flat,,mtpa,5.33,52.0,,,5.33,277160000.0,86.6125,1.0,5.33,277160000.0,86.6125,,firm
+430,Scarborough,production_asset,APAC,P50,2031,1,12,flat,,mtpa,5.6,52.0,,,5.6,291200000.0,91.0,1.0,5.6,291200000.0,91.0,,firm
+431,Scarborough,production_asset,APAC,P50,2032,1,12,flat,,mtpa,5.79,52.0,,,5.79,301080000.0,94.0875,1.0,5.79,301080000.0,94.0875,,firm
+432,Scarborough,production_asset,APAC,P50,2033,1,12,flat,,mtpa,6.17,52.0,,,6.17,320840000.0,100.2625,1.0,6.17,320840000.0,100.2625,,firm
+433,Scarborough,production_asset,APAC,P50,2034,1,12,flat,,mtpa,6.23,52.0,,,6.23,323960000.0,101.2375,1.0,6.23,323960000.0,101.2375,,firm
+434,Scarborough,production_asset,APAC,P50,2035,1,12,flat,,mtpa,6.45,52.0,,,6.45,335400000.0,104.8125,1.0,6.45,335400000.0,104.8125,,firm
+435,Scarborough,production_asset,APAC,P50,2036,1,12,flat,,mtpa,6.43,52.0,,,6.43,334360000.0,104.4875,1.0,6.43,334360000.0,104.4875,,firm
+436,Scarborough,production_asset,APAC,P50,2037,1,12,flat,,mtpa,6.25,52.0,,,6.25,325000000.0,101.5625,1.0,6.25,325000000.0,101.5625,,firm
+437,Scarborough,production_asset,APAC,P50,2038,1,12,flat,,mtpa,6.28,52.0,,,6.28,326560000.0,102.05,1.0,6.28,326560000.0,102.05,,firm
+438,Scarborough,production_asset,APAC,P50,2039,1,12,flat,,mtpa,6.2,52.0,,,6.2,322400000.0,100.75,1.0,6.2,322400000.0,100.75,,firm
+439,Scarborough,production_asset,APAC,P50,2040,1,12,flat,,mtpa,5.86,52.0,,,5.86,304720000.0,95.225,1.0,5.86,304720000.0,95.225,,firm
+440,Scarborough,production_asset,APAC,P50,2041,1,12,flat,,mtpa,5.31,52.0,,,5.31,276120000.0,86.2875,1.0,5.31,276120000.0,86.2875,,firm
+441,Scarborough,production_asset,APAC,P50,2042,1,12,flat,,mtpa,5.1,52.0,,,5.1,265200000.0,82.875,1.0,5.1,265200000.0,82.875,,firm
+442,Scarborough,production_asset,APAC,P50,2043,1,12,flat,,mtpa,4.95,52.0,,,4.95,257400000.0,80.4375,1.0,4.95,257400000.0,80.4375,,firm
+443,Scarborough,production_asset,APAC,P50,2044,1,12,flat,,mtpa,4.61,52.0,,,4.61,239720000.0,74.9125,1.0,4.61,239720000.0,74.9125,,firm
+444,Scarborough,production_asset,APAC,P50,2045,1,12,flat,,mtpa,3.93,52.0,,,3.93,204360000.0,63.8625,1.0,3.93,204360000.0,63.8625,,firm
+445,Scarborough,production_asset,APAC,P50,2046,1,12,flat,,mtpa,3.77,52.0,,,3.77,196040000.0,61.2625,1.0,3.77,196040000.0,61.2625,,firm
+446,Scarborough,production_asset,APAC,P50,2047,1,12,flat,,mtpa,3.72,52.0,,,3.72,193440000.0,60.45,1.0,3.72,193440000.0,60.45,,firm
+447,Scarborough,production_asset,APAC,P50,2048,1,12,flat,,mtpa,3.15,52.0,,,3.15,163800000.0,51.1875,1.0,3.15,163800000.0,51.1875,,firm
+448,Scarborough,production_asset,APAC,P50,2049,1,12,flat,,mtpa,2.57,52.0,,,2.57,133640000.0,41.7625,1.0,2.57,133640000.0,41.7625,,firm
+449,Scarborough,production_asset,APAC,P50,2050,1,12,flat,,mtpa,2.39,52.0,,,2.39,124280000.0,38.8375,1.0,2.39,124280000.0,38.8375,,firm
+450,Wheatstone,production_asset,APAC,P50,2025,1,12,flat,,mtpa,1.25,52.0,,,1.25,65000000.0,20.3125,1.0,1.25,65000000.0,20.3125,,firm
+451,Wheatstone,production_asset,APAC,P50,2026,1,12,flat,,mtpa,0.86,52.0,,,0.86,44720000.0,13.975,1.0,0.86,44720000.0,13.975,,firm
+452,Wheatstone,production_asset,APAC,P50,2027,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+453,Wheatstone,production_asset,APAC,P50,2028,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+454,Wheatstone,production_asset,APAC,P50,2029,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+455,Wheatstone,production_asset,APAC,P50,2030,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+456,Wheatstone,production_asset,APAC,P50,2031,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+457,Wheatstone,production_asset,APAC,P50,2032,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+458,Wheatstone,production_asset,APAC,P50,2033,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+459,Wheatstone,production_asset,APAC,P50,2034,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+460,Wheatstone,production_asset,APAC,P50,2035,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+461,Wheatstone,production_asset,APAC,P50,2036,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+462,Wheatstone,production_asset,APAC,P50,2037,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+463,Wheatstone,production_asset,APAC,P50,2038,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+464,Wheatstone,production_asset,APAC,P50,2039,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+465,Wheatstone,production_asset,APAC,P50,2040,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+466,Wheatstone,production_asset,APAC,P50,2041,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+467,Wheatstone,production_asset,APAC,P50,2042,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+468,Wheatstone,production_asset,APAC,P50,2043,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+469,Wheatstone,production_asset,APAC,P50,2044,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+470,Wheatstone,production_asset,APAC,P50,2045,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+471,Wheatstone,production_asset,APAC,P50,2046,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+472,Wheatstone,production_asset,APAC,P50,2047,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+473,Wheatstone,production_asset,APAC,P50,2048,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+474,Wheatstone,production_asset,APAC,P50,2049,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+475,Wheatstone,production_asset,APAC,P50,2050,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+476,NWS,production_asset,APAC,P50,2025,1,12,flat,,mtpa,2.86,52.0,,,2.86,148720000.0,46.475,1.0,2.86,148720000.0,46.475,,firm
+477,NWS,production_asset,APAC,P50,2026,1,12,flat,,mtpa,2.89,52.0,,,2.89,150280000.0,46.9625,1.0,2.89,150280000.0,46.9625,,firm
+478,NWS,production_asset,APAC,P50,2027,1,12,flat,,mtpa,3.14,52.0,,,3.14,163280000.0,51.025,1.0,3.14,163280000.0,51.025,,firm
+479,NWS,production_asset,APAC,P50,2028,1,12,flat,,mtpa,3.21,52.0,,,3.21,166920000.0,52.1625,1.0,3.21,166920000.0,52.1625,,firm
+480,NWS,production_asset,APAC,P50,2029,1,12,flat,,mtpa,2.9,52.0,,,2.9,150800000.0,47.125,1.0,2.9,150800000.0,47.125,,firm
+481,NWS,production_asset,APAC,P50,2030,1,12,flat,,mtpa,2.37,52.0,,,2.37,123240000.0,38.5125,1.0,2.37,123240000.0,38.5125,,firm
+482,NWS,production_asset,APAC,P50,2031,1,12,flat,,mtpa,1.99,52.0,,,1.99,103480000.0,32.3375,1.0,1.99,103480000.0,32.3375,,firm
+483,NWS,production_asset,APAC,P50,2032,1,12,flat,,mtpa,1.79,52.0,,,1.79,93080000.0,29.0875,1.0,1.79,93080000.0,29.0875,,firm
+484,NWS,production_asset,APAC,P50,2033,1,12,flat,,mtpa,1.58,52.0,,,1.58,82160000.0,25.675,1.0,1.58,82160000.0,25.675,,firm
+485,NWS,production_asset,APAC,P50,2034,1,12,flat,,mtpa,1.38,52.0,,,1.38,71760000.0,22.425,1.0,1.38,71760000.0,22.425,,firm
+486,NWS,production_asset,APAC,P50,2035,1,12,flat,,mtpa,1.2,52.0,,,1.2,62400000.0,19.5,1.0,1.2,62400000.0,19.5,,firm
+487,NWS,production_asset,APAC,P50,2036,1,12,flat,,mtpa,1.0,52.0,,,1.0,52000000.0,16.25,1.0,1.0,52000000.0,16.25,,firm
+488,NWS,production_asset,APAC,P50,2037,1,12,flat,,mtpa,0.68,52.0,,,0.68,35360000.0,11.05,1.0,0.68,35360000.0,11.05,,firm
+489,NWS,production_asset,APAC,P50,2038,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+490,NWS,production_asset,APAC,P50,2039,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+491,NWS,production_asset,APAC,P50,2040,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+492,NWS,production_asset,APAC,P50,2041,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+493,NWS,production_asset,APAC,P50,2042,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+494,NWS,production_asset,APAC,P50,2043,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+495,NWS,production_asset,APAC,P50,2044,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+496,NWS,production_asset,APAC,P50,2045,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+497,NWS,production_asset,APAC,P50,2046,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+498,NWS,production_asset,APAC,P50,2047,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+499,NWS,production_asset,APAC,P50,2048,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+500,NWS,production_asset,APAC,P50,2049,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+501,NWS,production_asset,APAC,P50,2050,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+502,Corpus,production_asset,Atlantic,P50,2025,1,12,flat,,mtpa,0.85,52.0,,,0.85,44200000.0,13.8125,1.0,0.85,44200000.0,13.8125,,firm
+503,Corpus,production_asset,Atlantic,P50,2026,1,12,flat,,mtpa,0.85,52.0,,,0.85,44200000.0,13.8125,1.0,0.85,44200000.0,13.8125,,firm
+504,Corpus,production_asset,Atlantic,P50,2027,1,12,flat,,mtpa,0.85,52.0,,,0.85,44200000.0,13.8125,1.0,0.85,44200000.0,13.8125,,firm
+505,Corpus,production_asset,Atlantic,P50,2028,1,12,flat,,mtpa,0.85,52.0,,,0.85,44200000.0,13.8125,1.0,0.85,44200000.0,13.8125,,firm
+506,Corpus,production_asset,Atlantic,P50,2029,1,12,flat,,mtpa,0.85,52.0,,,0.85,44200000.0,13.8125,1.0,0.85,44200000.0,13.8125,,firm
+507,Corpus,production_asset,Atlantic,P50,2030,1,12,flat,,mtpa,0.85,52.0,,,0.85,44200000.0,13.8125,1.0,0.85,44200000.0,13.8125,,firm
+508,Corpus,production_asset,Atlantic,P50,2031,1,12,flat,,mtpa,0.85,52.0,,,0.85,44200000.0,13.8125,1.0,0.85,44200000.0,13.8125,,firm
+509,Corpus,production_asset,Atlantic,P50,2032,1,12,flat,,mtpa,0.85,52.0,,,0.85,44200000.0,13.8125,1.0,0.85,44200000.0,13.8125,,firm
+510,Corpus,production_asset,Atlantic,P50,2033,1,12,flat,,mtpa,0.85,52.0,,,0.85,44200000.0,13.8125,1.0,0.85,44200000.0,13.8125,,firm
+511,Corpus,production_asset,Atlantic,P50,2034,1,12,flat,,mtpa,0.85,52.0,,,0.85,44200000.0,13.8125,1.0,0.85,44200000.0,13.8125,,firm
+512,Corpus,production_asset,Atlantic,P50,2035,1,12,flat,,mtpa,0.85,52.0,,,0.85,44200000.0,13.8125,1.0,0.85,44200000.0,13.8125,,firm
+513,Corpus,production_asset,Atlantic,P50,2036,1,12,flat,,mtpa,0.85,52.0,,,0.85,44200000.0,13.8125,1.0,0.85,44200000.0,13.8125,,firm
+514,Corpus,production_asset,Atlantic,P50,2037,1,12,flat,,mtpa,0.85,52.0,,,0.85,44200000.0,13.8125,1.0,0.85,44200000.0,13.8125,,firm
+515,Corpus,production_asset,Atlantic,P50,2038,1,12,flat,,mtpa,0.85,52.0,,,0.85,44200000.0,13.8125,1.0,0.85,44200000.0,13.8125,,firm
+516,Corpus,production_asset,Atlantic,P50,2039,1,12,flat,,mtpa,0.85,52.0,,,0.85,44200000.0,13.8125,1.0,0.85,44200000.0,13.8125,,firm
+517,Corpus,production_asset,Atlantic,P50,2040,1,12,flat,,mtpa,0.28,52.0,,,0.28,14560000.0,4.55,1.0,0.28,14560000.0,4.55,,firm
+518,Corpus,production_asset,Atlantic,P50,2041,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+519,Corpus,production_asset,Atlantic,P50,2042,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+520,Corpus,production_asset,Atlantic,P50,2043,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+521,Corpus,production_asset,Atlantic,P50,2044,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+522,Corpus,production_asset,Atlantic,P50,2045,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+523,Corpus,production_asset,Atlantic,P50,2046,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+524,Corpus,production_asset,Atlantic,P50,2047,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+525,Corpus,production_asset,Atlantic,P50,2048,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+526,Corpus,production_asset,Atlantic,P50,2049,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm
+527,Corpus,production_asset,Atlantic,P50,2050,1,12,flat,,mtpa,0.0,52.0,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,firm

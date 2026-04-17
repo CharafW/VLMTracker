@@ -1,0 +1,10 @@
+/* Make the dialog positionable and give a “move” cursor on the handle */
+.draggable-modal .modal-dialog {
+  position: fixed;           /* so we can set left/top */
+  margin: 0;                 /* bootstrap centers via margin; disable it */
+}
+
+.draggable-modal .drag-handle {
+  cursor: move;
+  user-select: none;
+}

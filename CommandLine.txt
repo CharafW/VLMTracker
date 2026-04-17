@@ -1,0 +1,12 @@
+python -m venv .venv
+.\.venv\Scripts\activate
+set PYTHONNOUSERSITE=1
+
+pip install --upgrade pip
+pip install -r requirements.txt --no-cache-dir
+
+python -m uvicorn app.main:app --reload
+
+### To Install ####
+
+pip install dash-extensions
